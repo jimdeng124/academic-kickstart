@@ -59,28 +59,28 @@ education:
       GPA: 3.9/4.0
       
 work:
-  - position: Quantitative Trading Team Intern
-    company_name: Finovax
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 'July 2024'
-    date_end: 'September 2024'
+    date_start: 2021-01-01
+    date_end: ''
     summary: |2-
       Responsibilities include:
-      - Researched 10 CTA quantitative trading strategies
-      - Utilized the Backtrader library in Python for backtesting
-      - Implemented and backtested the Dual Momentum Strategy algorithm
-  - position: Research Department Intern
-    company_name: Deerfield Management Company
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 'May 2023'
-    date_end: 'Auguest 2023'
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Authored 20+ investment monitoring reports for the companys annual portfolio review
-      - Analyzed historical ETF market performance, trends, and regulatory environment using data from leading mutual funds
-      - Evaluated and enhanced the Risk Parity model for ETF portfolios by back-testing in a Python-based virtual trading environment
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
