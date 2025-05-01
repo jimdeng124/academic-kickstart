@@ -64,7 +64,7 @@ work:
     company_name: Finovax
     company_url: ''
     company_logo: ''
-    date_start: July 2024
+    date_start: 'July 2024'
     date_end: 'September 2024'
     summary: |2-
       Responsibilities include:
@@ -75,11 +75,11 @@ work:
     company_name: Deerfield Management Company
     company_url: ''
     company_logo: ''
-    date_start: May 2023
-    date_end: Auguest 2023
+    date_start: 'May 2023'
+    date_end: 'Auguest 2023'
     summary: |
       Responsibilities include:
-      - Authored 20+ investment monitoring reports for the company’s annual portfolio review
+      - Authored 20+ investment monitoring reports for the companys annual portfolio review
       - Analyzed historical ETF market performance, trends, and regulatory environment using data from leading mutual funds
       - Evaluated and enhanced the Risk Parity model for ETF portfolios by back-testing in a Python-based virtual trading environment
 
