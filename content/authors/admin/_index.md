@@ -59,28 +59,28 @@ education:
       GPA: 3.9/4.0
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Quantitative Trading Team Intern
+    company_name: Finovax
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 'July 2024'
+    date_end: 'September 2024'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Researched 10 CTA quantitative trading strategies
+      - Utilized the Backtrader library in Python for backtesting
+      - Implemented and backtested the Dual Momentum Strategy algorithm
+  - position: Research Department Intern
+    company_name: Deerfield Management Company
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 'May 2023'
+    date_end: 'Auguest 2023'
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Authored 20+ investment monitoring reports for the companys annual portfolio review
+      - Analyzed historical ETF market performance, trends, and regulatory environment using data from leading mutual funds
+      - Evaluated and enhanced the Risk Parity model for ETF portfolios by back-testing in a Python-based virtual trading environment
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -128,4 +128,4 @@ languages:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ruipeng Deng is a Master of Engineering candidate in Financial Engineering at Cornell University with a strong academic foundation in mathematics and statistics from Grinnell College. With hands-on experience in quantitative research, algorithmic trading, and data science, Jim has contributed to projects spanning CTA strategy development, risk modeling, and machine learning. His work has been recognized in academic publications and competitive platforms like Kaggle. Passionate about blending analytical rigor with real-world impact, he aims to advance innovation in quantitative finance and data-driven decision-making.
