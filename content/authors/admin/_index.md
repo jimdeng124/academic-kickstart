@@ -59,23 +59,23 @@ education:
       GPA: 3.9/4.0
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Quantitative Trading Team Intern
+    company_name: Finovax
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-07-14
+    date_end: 2024-09-21
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Research Department Intern
+    company_name: Deerfield Management Company
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-05-27
+    date_end: 2023-08-16
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
