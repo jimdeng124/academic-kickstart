@@ -34,9 +34,9 @@ profiles:
     url: 'mailto:rd639@cornell.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/jimdeng124
+    url: 'https://github.com/jimdeng124'
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/ruipeng-deng-688719241/
+    url: 'https://www.linkedin.com/in/ruipeng-deng-688719241/'
 
 
 interests:
