@@ -67,9 +67,9 @@ work:
     date_end: 2024-09-21
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Researched 10 CTA quantitative trading strategies
+      - Utilized the Backtrader library in Python for backtesting
+      - Implemented and backtested the Dual Momentum Strategy algorithm
   - position: Research Department Intern
     company_name: Deerfield Management Company
     company_url: ''
@@ -78,9 +78,9 @@ work:
     date_end: 2023-08-16
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Authored 20+ investment monitoring reports for the companys annual portfolio review
+      - Analyzed historical ETF market performance, trends, and regulatory environment using data from leading mutual funds
+      - Evaluated and enhanced the Risk Parity model for ETF portfolios by back-testing in a Python-based virtual trading environment
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
