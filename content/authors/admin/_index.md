@@ -33,71 +33,55 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rd639@cornell.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jimdeng124
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ruipeng-deng-688719241/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Financial Modeling
+  - Quantitative Trading Strategies
+  - Machine Learning in Finance
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: MEng Financial Engineering
     institution: Cornell University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-08-25
+    date_end: 2025-12-31
     summary: |
       GPA: 3.8/4.0
 
-  - area: BA Artificial Intelligence
-    institution: Mathematics with statistics concentration
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BA Mathematics with statistics concentration
+    institution: Grinnell College
+    date_start: 2020-08-16
+    date_end: 2024-05-23
     summary: |
       GPA: 3.9/4.0
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Quantitative Trading Team Intern
+    company_name: Finovax
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: July 2024
+    date_end: 'September 2024'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Researched 10 CTA quantitative trading strategies
+      - Utilized the Backtrader library in Python for backtesting
+      - Implemented and backtested the Dual Momentum Strategy algorithm
+  - position: Research Department Intern
+    company_name: Deerfield Management Company
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: May 2023
+    date_end: Auguest 2023
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Authored 20+ investment monitoring reports for the company’s annual portfolio review
+      - Analyzed historical ETF market performance, trends, and regulatory environment using data from leading mutual funds
+      - Evaluated and enhanced the Risk Parity model for ETF portfolios by back-testing in a Python-based virtual trading environment
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -108,9 +92,9 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
       - name: SQL
         description: ''
@@ -120,18 +104,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Brazilian jiu-jitsu
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 80
+        icon:
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Wrestling
         description: ''
         percent: 80
-        icon: camera
+        icon: 
 
 languages:
   - name: English
@@ -145,34 +129,8 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ruipeng (Jim) Deng is a Master of Engineering candidate in Financial Engineering at Cornell University with a strong academic foundation in mathematics and statistics from Grinnell College. With hands-on experience in quantitative research, algorithmic trading, and data science, Jim has contributed to projects spanning CTA strategy development, risk modeling, and machine learning. His work has been recognized in academic publications and competitive platforms like Kaggle. Passionate about blending analytical rigor with real-world impact, he aims to advance innovation in quantitative finance and data-driven decision-making.
