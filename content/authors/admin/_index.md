@@ -34,54 +34,70 @@ profiles:
     url: 'mailto:rd639@cornell.edu'
     label: E-mail Me
   - icon: brands/github
-    url: 'https://github.com/jimdeng124'
+    url: https://github.com/jimdeng124
   - icon: brands/linkedin
-    url: 'https://www.linkedin.com/in/ruipeng-deng-688719241/'
-
+    url: https://www.linkedin.com/in/ruipeng-deng-688719241/
 
 interests:
-  - Financial Modeling
-  - Quantitative Trading Strategies
-  - Machine Learning in Finance
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: MEng Financial Engineering
-    institution: Cornell University
-    date_start: 2024-08-25
-    date_end: 2025-12-31
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
 
-  - area: BA Mathematics with statistics concentration
-    institution: Grinnell College
-    date_start: 2020-08-16
-    date_end: 2024-05-23
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.4/4.0
       
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Quantitative Trading Team Intern
-    company_name: Finovax
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 'July 2024'
-    date_end: 'September 2024'
+    date_start: 2021-01-01
+    date_end: ''
     summary: |2-
       Responsibilities include:
-      - Researched 10 CTA quantitative trading strategies
-      - Utilized the Backtrader library in Python for backtesting
-      - Implemented and backtested the Dual Momentum Strategy algorithm
-  - position: Research Department Intern
-    company_name: Deerfield Management Company
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 'May 2023'
-    date_end: 'Auguest 2023'
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Authored 20+ investment monitoring reports for the companys annual portfolio review
-      - Analyzed historical ETF market performance, trends, and regulatory environment using data from leading mutual funds
-      - Evaluated and enhanced the Risk Parity model for ETF portfolios by back-testing in a Python-based virtual trading environment
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -92,9 +108,9 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: R
+      - name: Data Science
         description: ''
-        percent: 80
+        percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
@@ -104,18 +120,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Brazilian jiu-jitsu
+      - name: Hiking
         description: ''
-        percent: 80
-        icon:
+        percent: 60
+        icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Wrestling
+      - name: Photography
         description: ''
         percent: 80
-        icon: 
+        icon: camera
 
 languages:
   - name: English
