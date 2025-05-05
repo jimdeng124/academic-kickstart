@@ -125,9 +125,9 @@ languages:
 
 awards:
   - title: Phi Beta Kappa
-    url: 
+    url: https://www.pbk.org/
     date: '2024-06-19'
-    awarder: 
+    awarder: Phi Beta Kappa
     icon: 
     summary: |
       I was honored to be elected to Phi Beta Kappa, the nation’s oldest academic honor society, in recognition of my academic excellence and commitment to the liberal arts and sciences at Grinnell College. This distinction reflects my dedication to intellectual rigor and interdisciplinary learning throughout my undergraduate studies.
