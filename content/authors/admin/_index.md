@@ -118,12 +118,19 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
+    percent: 100
 
 
-
+awards:
+  - title: Phi Beta Kappa
+    url: 
+    date: '2024-06-19'
+    awarder: 
+    icon: 
+    summary: |
+      I was honored to be elected to Phi Beta Kappa, the nation’s oldest academic honor society, in recognition of my academic excellence and commitment to the liberal arts and sciences at Grinnell College. This distinction reflects my dedication to intellectual rigor and interdisciplinary learning throughout my undergraduate studies.
 ---
 
 ## About Me
