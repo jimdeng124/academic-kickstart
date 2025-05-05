@@ -35,24 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I'm a researcher with a focus on quantitative modeling and data-driven methods in finance, risk analysis, and machine learning. My work spans developing systematic trading strategies, analyzing market behavior, and applying AI techniques to real-world decision-making. I’m especially interested in how advanced statistical and computational tools can enhance financial systems and portfolio performance. Always open to research collaborations—feel free to reach out!
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -112,7 +97,7 @@ sections:
         <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
 
         Easily build anything with blocks - no-code required!
-        
+
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started
