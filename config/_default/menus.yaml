@@ -10,7 +10,6 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: Experience
+  - name: Experience/Misc
     url: experience/
     weight: 20
-
