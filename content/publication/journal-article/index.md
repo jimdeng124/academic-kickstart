@@ -26,13 +26,13 @@ publication_types: ["article-journal"]
 publication: "*IEEE Transactions on Instrumentation and Measurement, 73*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Pedestrian identification based on footstep-induced vibrations is a nonintrusive identification method requiring sparse sensor layout for biometrics in smart buildings. Affected by variations in environments, developing pedestrian identification algorithms across different scenarios is challenging. To enhance the reusability and transferability of identification, a deep domain generalization-based method combining time-frequency domain signal processing and deep learning is proposed. First, the collected signals are converted into time-frequency images through continuous wavelet transform (CWT) to focus on the changes in energy distribution. Second, a deep residual shrinkage network (DRSN) specially designed for noise component suppression is used as a backbone network to automatically extract features. Third, classification information inherently in a single domain and discriminative knowledge generated through multiple domains are learned as the internally invariant and mutually invariant features to provide domain invariance for the classifier in the domain-invariant feature exploration (DIFEX) model. The results of the experiments involving multiple influencing factors demonstrated the great generalization of the proposed method, which achieves consistent pedestrian identification performance with over 90% accuracy across various environments.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The study introduces a deep‐learning framework that converts footstep‐induced vibration signals into continuous‑wavelet time‑frequency images and feeds them to a noise‑robust deep residual shrinkage network combined with a domain‑invariant feature exploration (DIFEX) module, enabling pedestrian identification that generalizes across different building environments. Experiments show the approach maintains over 90 % identification accuracy under multiple environmental variations, confirming its reusability and transferability.
 
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 featured: false
 
 # links:
@@ -55,12 +55,3 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
