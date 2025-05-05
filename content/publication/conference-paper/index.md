@@ -30,8 +30,7 @@ abstract: Person identification normally leverages biometrics which including fa
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
-  - Deep Residual Shrinkage Network
+
 
 # Display this page in the Featured widget?
 featured: false
