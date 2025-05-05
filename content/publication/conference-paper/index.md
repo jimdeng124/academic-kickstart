@@ -34,7 +34,7 @@ tags:
   - Deep Residual Shrinkage Network
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -43,4 +43,4 @@ featured: true
 
 url_pdf: ''
 
-
+---
